@@ -1,0 +1,109 @@
+gender,marital_status,dependents,contract_type,internet_service,phone_service,multiple_lines,online_security,online_backup,device_protection,tech_support,streaming_tv,streaming_movies,churn_count
+Female,Married,0,Monthly,"Fiber Optic",No,Yes,No,Yes,No,Yes,Yes,No,1
+Female,Single,1,Monthly,DSL,Yes,No,No,No,Yes,Yes,No,Yes,1
+Female,Married,0,Monthly,DSL,Yes,Yes,No,Yes,No,No,No,Yes,1
+Male,Married,0,Yearly,"Fiber Optic",Yes,Yes,No,Yes,No,No,No,No,1
+Female,Married,1,Monthly,DSL,No,Yes,Yes,No,No,No,No,No,1
+Male,Single,3,Monthly,"Fiber Optic",Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,1
+Female,Married,1,Monthly,"Fiber Optic",No,Yes,Yes,No,No,No,No,No,1
+Female,Married,1,Monthly,DSL,No,Yes,Yes,No,No,No,Yes,Yes,1
+Male,Married,3,Yearly,"Fiber Optic",No,Yes,Yes,Yes,No,Yes,No,Yes,1
+Female,Single,1,Monthly,DSL,No,Yes,Yes,No,No,Yes,No,No,1
+Female,Married,0,Yearly,DSL,Yes,Yes,No,Yes,Yes,Yes,Yes,No,1
+Female,Single,1,Monthly,DSL,Yes,Yes,Yes,No,Yes,No,Yes,No,1
+Female,Married,1,Monthly,DSL,Yes,No,Yes,Yes,No,Yes,No,No,1
+Male,Single,3,Monthly,"Fiber Optic",Yes,No,No,Yes,Yes,No,No,No,1
+Male,Married,3,Yearly,DSL,No,Yes,Yes,No,Yes,No,Yes,Yes,1
+Male,Married,3,Monthly,"Fiber Optic",No,No,Yes,Yes,Yes,Yes,No,No,1
+Female,Married,0,Monthly,"Fiber Optic",Yes,Yes,Yes,No,Yes,No,Yes,No,1
+Female,Married,0,Monthly,"Fiber Optic",Yes,Yes,Yes,No,Yes,No,No,Yes,1
+Female,Married,0,Monthly,"Fiber Optic",No,No,Yes,No,No,Yes,Yes,Yes,1
+Female,Single,2,Monthly,DSL,No,No,Yes,No,Yes,Yes,No,Yes,1
+Male,Single,2,Yearly,DSL,Yes,No,Yes,Yes,No,Yes,No,No,1
+Female,Single,0,Monthly,"Fiber Optic",No,Yes,Yes,Yes,Yes,No,No,No,1
+Male,Married,2,Monthly,"Fiber Optic",Yes,No,No,Yes,Yes,No,No,No,1
+Male,Married,3,Yearly,DSL,Yes,No,Yes,No,No,No,No,Yes,1
+Male,Single,1,Yearly,"Fiber Optic",No,No,No,Yes,No,No,No,No,1
+Male,Married,0,Yearly,DSL,No,Yes,Yes,No,Yes,Yes,Yes,Yes,1
+Female,Married,3,Yearly,DSL,Yes,Yes,Yes,Yes,No,No,No,No,1
+Male,Married,0,Monthly,"Fiber Optic",Yes,No,No,Yes,No,Yes,Yes,No,1
+Male,Single,2,Monthly,DSL,Yes,No,No,Yes,Yes,Yes,No,Yes,1
+Female,Single,3,Yearly,DSL,No,No,Yes,Yes,No,No,No,Yes,1
+Male,Single,1,Yearly,"Fiber Optic",Yes,No,No,No,Yes,No,No,No,1
+Male,Single,1,Yearly,"Fiber Optic",No,No,Yes,No,Yes,Yes,Yes,Yes,1
+Female,Single,3,Yearly,"Fiber Optic",Yes,Yes,Yes,No,No,No,Yes,No,1
+Male,Single,0,Monthly,DSL,No,Yes,No,Yes,Yes,Yes,Yes,Yes,1
+Female,Single,2,Monthly,DSL,Yes,No,Yes,No,Yes,Yes,No,No,1
+Male,Married,1,Yearly,"Fiber Optic",No,Yes,Yes,Yes,Yes,Yes,Yes,No,1
+Female,Single,0,Monthly,DSL,No,No,No,No,No,No,Yes,Yes,1
+Female,Married,2,Monthly,"Fiber Optic",No,Yes,No,Yes,No,Yes,No,Yes,1
+Male,Married,1,Yearly,DSL,Yes,No,No,Yes,Yes,No,No,No,1
+Female,Single,1,Monthly,"Fiber Optic",Yes,No,Yes,No,Yes,No,No,No,1
+Female,Single,1,Yearly,"Fiber Optic",Yes,Yes,Yes,No,Yes,No,Yes,No,1
+Female,Married,0,Yearly,DSL,Yes,Yes,No,Yes,Yes,No,No,Yes,1
+Male,Married,0,Yearly,"Fiber Optic",No,Yes,Yes,Yes,No,No,No,Yes,1
+Male,Single,1,Monthly,"Fiber Optic",No,No,Yes,No,No,Yes,Yes,No,1
+Male,Married,3,Yearly,DSL,Yes,Yes,No,Yes,No,No,No,No,1
+Male,Married,0,Yearly,"Fiber Optic",Yes,Yes,Yes,No,Yes,No,No,Yes,1
+Male,Single,2,Yearly,"Fiber Optic",No,Yes,No,No,Yes,No,Yes,No,1
+Male,Single,2,Monthly,DSL,Yes,Yes,No,Yes,No,No,No,No,1
+Female,Single,0,Monthly,"Fiber Optic",No,Yes,No,No,Yes,Yes,No,No,1
+Female,Single,2,Monthly,DSL,No,No,No,Yes,Yes,Yes,Yes,No,1
+Male,Married,0,Monthly,"Fiber Optic",Yes,No,Yes,No,Yes,No,Yes,No,1
+Female,Married,2,Yearly,DSL,No,Yes,Yes,No,Yes,No,Yes,Yes,1
+Female,Single,2,Monthly,"Fiber Optic",No,Yes,Yes,No,No,Yes,No,No,1
+Male,Single,1,Yearly,"Fiber Optic",No,No,Yes,Yes,No,No,Yes,No,1
+Female,Single,1,Monthly,DSL,No,Yes,Yes,No,Yes,No,Yes,No,1
+Female,Married,0,Monthly,"Fiber Optic",No,No,Yes,Yes,Yes,Yes,No,No,1
+Male,Married,1,Yearly,"Fiber Optic",Yes,No,No,Yes,No,Yes,Yes,Yes,1
+Male,Single,3,Monthly,"Fiber Optic",Yes,No,No,Yes,Yes,Yes,Yes,Yes,1
+Female,Single,0,Monthly,"Fiber Optic",No,Yes,Yes,Yes,No,No,Yes,Yes,1
+Female,Married,2,Monthly,DSL,No,Yes,Yes,No,Yes,No,Yes,No,1
+Male,Single,0,Yearly,DSL,Yes,No,No,Yes,No,Yes,Yes,No,1
+Female,Married,0,Monthly,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,No,1
+Male,Married,1,Monthly,"Fiber Optic",Yes,No,Yes,No,No,Yes,No,Yes,1
+Male,Single,0,Yearly,"Fiber Optic",No,No,Yes,Yes,No,No,Yes,No,1
+Female,Single,2,Monthly,DSL,Yes,No,No,No,No,No,No,Yes,1
+Female,Single,1,Monthly,"Fiber Optic",Yes,Yes,No,Yes,No,Yes,No,Yes,1
+Male,Single,2,Yearly,"Fiber Optic",Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,1
+Male,Single,3,Yearly,"Fiber Optic",Yes,Yes,No,No,No,Yes,Yes,No,1
+Male,Married,0,Yearly,DSL,No,Yes,No,Yes,Yes,No,No,Yes,1
+Male,Single,2,Monthly,"Fiber Optic",Yes,Yes,No,Yes,Yes,Yes,No,No,1
+Female,Single,1,Yearly,DSL,No,No,Yes,No,No,Yes,Yes,No,1
+Male,Single,0,Yearly,DSL,Yes,No,No,No,No,No,Yes,Yes,1
+Female,Married,0,Monthly,"Fiber Optic",No,No,No,Yes,No,Yes,No,Yes,1
+Female,Married,3,Monthly,"Fiber Optic",Yes,No,Yes,Yes,No,No,No,No,1
+Female,Married,1,Monthly,DSL,Yes,No,Yes,Yes,No,No,No,Yes,1
+Female,Married,3,Monthly,"Fiber Optic",Yes,No,No,No,No,No,No,No,1
+Female,Married,2,Monthly,DSL,No,Yes,No,No,Yes,No,No,No,1
+Female,Single,1,Monthly,DSL,No,No,No,No,Yes,Yes,No,Yes,1
+Female,Married,1,Yearly,"Fiber Optic",Yes,Yes,No,No,Yes,No,Yes,No,1
+Female,Single,2,Monthly,DSL,Yes,No,No,No,Yes,No,No,Yes,1
+Female,Married,0,Monthly,"Fiber Optic",No,No,No,No,No,Yes,No,No,1
+Female,Married,2,Monthly,"Fiber Optic",No,Yes,No,Yes,No,No,Yes,Yes,1
+Male,Married,3,Monthly,DSL,No,Yes,Yes,Yes,Yes,No,Yes,No,1
+Female,Single,0,Yearly,"Fiber Optic",No,No,Yes,No,Yes,No,No,Yes,1
+Male,Married,1,Yearly,DSL,No,No,Yes,Yes,Yes,Yes,No,No,1
+Male,Single,2,Monthly,DSL,Yes,No,Yes,No,Yes,Yes,Yes,Yes,1
+Female,Married,1,Monthly,DSL,No,Yes,No,No,No,No,No,No,1
+Female,Married,2,Monthly,DSL,No,Yes,Yes,Yes,No,No,No,No,1
+Female,Single,3,Yearly,"Fiber Optic",Yes,Yes,No,No,No,Yes,No,No,1
+Female,Married,3,Monthly,"Fiber Optic",Yes,Yes,No,Yes,No,Yes,Yes,Yes,1
+Female,Married,1,Yearly,DSL,No,No,Yes,Yes,Yes,No,Yes,Yes,1
+Female,Married,3,Monthly,DSL,No,No,Yes,Yes,Yes,No,No,Yes,1
+Male,Single,1,Yearly,DSL,Yes,No,No,Yes,Yes,No,Yes,Yes,1
+Male,Married,2,Monthly,"Fiber Optic",Yes,No,No,Yes,Yes,No,Yes,No,1
+Female,Single,2,Yearly,"Fiber Optic",No,No,Yes,Yes,Yes,No,No,Yes,1
+Female,Single,1,Yearly,"Fiber Optic",No,Yes,Yes,Yes,Yes,No,Yes,No,1
+Female,Single,0,Monthly,"Fiber Optic",No,No,Yes,No,No,No,No,No,1
+Female,Single,0,Monthly,"Fiber Optic",No,Yes,Yes,Yes,No,No,No,Yes,1
+Male,Single,3,Monthly,"Fiber Optic",Yes,No,No,Yes,Yes,Yes,Yes,No,1
+Male,Married,0,Monthly,"Fiber Optic",No,No,Yes,Yes,No,No,No,No,1
+Male,Married,1,Monthly,"Fiber Optic",No,Yes,Yes,Yes,No,No,No,Yes,1
+Male,Single,1,Monthly,"Fiber Optic",Yes,Yes,No,No,Yes,No,No,Yes,1
+Male,Single,2,Monthly,DSL,Yes,Yes,Yes,Yes,No,No,Yes,Yes,1
+Female,Single,1,Monthly,"Fiber Optic",Yes,No,No,No,No,No,No,No,1
+Female,Married,2,Monthly,DSL,Yes,No,No,No,No,No,Yes,No,1
+Female,Single,1,Yearly,"Fiber Optic",Yes,No,No,No,Yes,No,No,Yes,1
+Male,Single,1,Monthly,"Fiber Optic",Yes,Yes,Yes,No,No,Yes,No,No,1
+Male,Single,0,Yearly,"Fiber Optic",No,Yes,No,No,Yes,No,Yes,Yes,1

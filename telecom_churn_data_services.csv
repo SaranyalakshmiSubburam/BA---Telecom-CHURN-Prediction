@@ -1,0 +1,102 @@
+internet_service,phone_service,multiple_lines,online_security,online_backup,device_protection,tech_support,streaming_tv,streaming_movies,contract_type,churn_count
+"Fiber Optic",No,Yes,No,Yes,No,Yes,Yes,No,Monthly,1
+DSL,Yes,No,No,No,Yes,Yes,No,Yes,Monthly,1
+DSL,Yes,Yes,No,Yes,No,No,No,Yes,Monthly,1
+"Fiber Optic",Yes,Yes,No,Yes,No,No,No,No,Yearly,1
+DSL,No,Yes,Yes,No,No,No,No,No,Monthly,1
+"Fiber Optic",Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Monthly,1
+"Fiber Optic",No,Yes,Yes,No,No,No,No,No,Monthly,1
+DSL,No,Yes,Yes,No,No,No,Yes,Yes,Monthly,1
+"Fiber Optic",No,Yes,Yes,Yes,No,Yes,No,Yes,Yearly,1
+DSL,No,Yes,Yes,No,No,Yes,No,No,Monthly,1
+DSL,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yearly,1
+DSL,Yes,Yes,Yes,No,Yes,No,Yes,No,Monthly,1
+DSL,Yes,No,Yes,Yes,No,Yes,No,No,Monthly,1
+"Fiber Optic",Yes,No,No,Yes,Yes,No,No,No,Monthly,2
+DSL,No,Yes,Yes,No,Yes,No,Yes,Yes,Yearly,2
+"Fiber Optic",No,No,Yes,Yes,Yes,Yes,No,No,Monthly,2
+"Fiber Optic",Yes,Yes,Yes,No,Yes,No,Yes,No,Monthly,1
+"Fiber Optic",Yes,Yes,Yes,No,Yes,No,No,Yes,Monthly,1
+"Fiber Optic",No,No,Yes,No,No,Yes,Yes,Yes,Monthly,1
+DSL,No,No,Yes,No,Yes,Yes,No,Yes,Monthly,1
+DSL,Yes,No,Yes,Yes,No,Yes,No,No,Yearly,1
+"Fiber Optic",No,Yes,Yes,Yes,Yes,No,No,No,Monthly,1
+DSL,Yes,No,Yes,No,No,No,No,Yes,Yearly,1
+"Fiber Optic",No,No,No,Yes,No,No,No,No,Yearly,1
+DSL,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yearly,1
+DSL,Yes,Yes,Yes,Yes,No,No,No,No,Yearly,1
+"Fiber Optic",Yes,No,No,Yes,No,Yes,Yes,No,Monthly,1
+DSL,Yes,No,No,Yes,Yes,Yes,No,Yes,Monthly,1
+DSL,No,No,Yes,Yes,No,No,No,Yes,Yearly,1
+"Fiber Optic",Yes,No,No,No,Yes,No,No,No,Yearly,1
+"Fiber Optic",No,No,Yes,No,Yes,Yes,Yes,Yes,Yearly,1
+"Fiber Optic",Yes,Yes,Yes,No,No,No,Yes,No,Yearly,1
+DSL,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Monthly,1
+DSL,Yes,No,Yes,No,Yes,Yes,No,No,Monthly,1
+"Fiber Optic",No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yearly,1
+DSL,No,No,No,No,No,No,Yes,Yes,Monthly,1
+"Fiber Optic",No,Yes,No,Yes,No,Yes,No,Yes,Monthly,1
+DSL,Yes,No,No,Yes,Yes,No,No,No,Yearly,1
+"Fiber Optic",Yes,No,Yes,No,Yes,No,No,No,Monthly,1
+"Fiber Optic",Yes,Yes,Yes,No,Yes,No,Yes,No,Yearly,1
+DSL,Yes,Yes,No,Yes,Yes,No,No,Yes,Yearly,1
+"Fiber Optic",No,Yes,Yes,Yes,No,No,No,Yes,Yearly,1
+"Fiber Optic",No,No,Yes,No,No,Yes,Yes,No,Monthly,1
+DSL,Yes,Yes,No,Yes,No,No,No,No,Yearly,1
+"Fiber Optic",Yes,Yes,Yes,No,Yes,No,No,Yes,Yearly,1
+"Fiber Optic",No,Yes,No,No,Yes,No,Yes,No,Yearly,1
+DSL,Yes,Yes,No,Yes,No,No,No,No,Monthly,1
+"Fiber Optic",No,Yes,No,No,Yes,Yes,No,No,Monthly,1
+DSL,No,No,No,Yes,Yes,Yes,Yes,No,Monthly,1
+"Fiber Optic",Yes,No,Yes,No,Yes,No,Yes,No,Monthly,1
+"Fiber Optic",No,Yes,Yes,No,No,Yes,No,No,Monthly,1
+"Fiber Optic",No,No,Yes,Yes,No,No,Yes,No,Yearly,2
+DSL,No,Yes,Yes,No,Yes,No,Yes,No,Monthly,2
+"Fiber Optic",Yes,No,No,Yes,No,Yes,Yes,Yes,Yearly,1
+"Fiber Optic",Yes,No,No,Yes,Yes,Yes,Yes,Yes,Monthly,1
+"Fiber Optic",No,Yes,Yes,Yes,No,No,Yes,Yes,Monthly,1
+DSL,Yes,No,No,Yes,No,Yes,Yes,No,Yearly,1
+DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Monthly,1
+"Fiber Optic",Yes,No,Yes,No,No,Yes,No,Yes,Monthly,1
+DSL,Yes,No,No,No,No,No,No,Yes,Monthly,1
+"Fiber Optic",Yes,Yes,No,Yes,No,Yes,No,Yes,Monthly,1
+"Fiber Optic",Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yearly,1
+"Fiber Optic",Yes,Yes,No,No,No,Yes,Yes,No,Yearly,1
+DSL,No,Yes,No,Yes,Yes,No,No,Yes,Yearly,1
+"Fiber Optic",Yes,Yes,No,Yes,Yes,Yes,No,No,Monthly,1
+DSL,No,No,Yes,No,No,Yes,Yes,No,Yearly,1
+DSL,Yes,No,No,No,No,No,Yes,Yes,Yearly,1
+"Fiber Optic",No,No,No,Yes,No,Yes,No,Yes,Monthly,1
+"Fiber Optic",Yes,No,Yes,Yes,No,No,No,No,Monthly,1
+DSL,Yes,No,Yes,Yes,No,No,No,Yes,Monthly,1
+"Fiber Optic",Yes,No,No,No,No,No,No,No,Monthly,2
+DSL,No,Yes,No,No,Yes,No,No,No,Monthly,1
+DSL,No,No,No,No,Yes,Yes,No,Yes,Monthly,1
+"Fiber Optic",Yes,Yes,No,No,Yes,No,Yes,No,Yearly,1
+DSL,Yes,No,No,No,Yes,No,No,Yes,Monthly,1
+"Fiber Optic",No,No,No,No,No,Yes,No,No,Monthly,1
+"Fiber Optic",No,Yes,No,Yes,No,No,Yes,Yes,Monthly,1
+DSL,No,Yes,Yes,Yes,Yes,No,Yes,No,Monthly,1
+"Fiber Optic",No,No,Yes,No,Yes,No,No,Yes,Yearly,1
+DSL,No,No,Yes,Yes,Yes,Yes,No,No,Yearly,1
+DSL,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Monthly,1
+DSL,No,Yes,No,No,No,No,No,No,Monthly,1
+DSL,No,Yes,Yes,Yes,No,No,No,No,Monthly,1
+"Fiber Optic",Yes,Yes,No,No,No,Yes,No,No,Yearly,1
+"Fiber Optic",Yes,Yes,No,Yes,No,Yes,Yes,Yes,Monthly,1
+DSL,No,No,Yes,Yes,Yes,No,Yes,Yes,Yearly,1
+DSL,No,No,Yes,Yes,Yes,No,No,Yes,Monthly,1
+DSL,Yes,No,No,Yes,Yes,No,Yes,Yes,Yearly,1
+"Fiber Optic",Yes,No,No,Yes,Yes,No,Yes,No,Monthly,1
+"Fiber Optic",No,No,Yes,Yes,Yes,No,No,Yes,Yearly,1
+"Fiber Optic",No,Yes,Yes,Yes,Yes,No,Yes,No,Yearly,1
+"Fiber Optic",No,No,Yes,No,No,No,No,No,Monthly,1
+"Fiber Optic",No,Yes,Yes,Yes,No,No,No,Yes,Monthly,2
+"Fiber Optic",Yes,No,No,Yes,Yes,Yes,Yes,No,Monthly,1
+"Fiber Optic",No,No,Yes,Yes,No,No,No,No,Monthly,1
+"Fiber Optic",Yes,Yes,No,No,Yes,No,No,Yes,Monthly,1
+DSL,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Monthly,1
+DSL,Yes,No,No,No,No,No,Yes,No,Monthly,1
+"Fiber Optic",Yes,No,No,No,Yes,No,No,Yes,Yearly,1
+"Fiber Optic",Yes,Yes,Yes,No,No,Yes,No,No,Monthly,1
+"Fiber Optic",No,Yes,No,No,Yes,No,Yes,Yes,Yearly,1
